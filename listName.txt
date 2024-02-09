@@ -9,4 +9,9 @@ microsoft
 volvo 
 toyota
 gehmit 
+avion 
+banane 
+data science 
+machine learning 
+data ninja 
 
