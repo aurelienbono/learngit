@@ -6,6 +6,7 @@ chine
 orange
 google 
 microsoft 
-telsa 
+volvo 
+toyota
 gehmit 
 
